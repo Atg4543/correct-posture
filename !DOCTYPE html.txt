@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Correct Postures</title>
+    <style>
+        body {
+            background-color: rgb(255, 251, 214);
+        }
+    </style>
+</head>
+<body>
+
+    <p style="text-align: center; color: blue;">
+        <b>Correct Your Posture While Using Computer</b>
+    </p>
+
+    <p style="text-align: justify;">
+        You should maintain a proper sitting posture while using a computer. 
+        Following are a few simple points that you can follow to improve your posture:
+    </p>
+
+    <ul>
+        <li>Maintain a distance of at least 20 inches from the screen.</li>
+        <li>Set the chair's height so your feet are flat on the ground.</li>
+        <li>Sit straight on the chair.</li>
+        <li>Look forward to avoid any kind of strain or pain in the neck.</li>
+        <li>Level your eyes higher than the center of the screen.</li>
+    </ul>
+
+</body>
+</html>
